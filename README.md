@@ -1,6 +1,6 @@
 # ConfiBook - Android App
 
-![image](https://github.com/mr-ravin/ConfiBook-Android-App/blob/main/ConfiBook.jpg)
+![image](https://github.com/mr-ravin/ConfiBook-Android-App/blob/main/ConfiBook.png)
 
 This application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
 
