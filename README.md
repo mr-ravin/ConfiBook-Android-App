@@ -1,8 +1,6 @@
 # ConfiBook - Android App
 
-![image](https://github.com/mr-ravin/ConfiBook-Android-App/blob/main/ConfiBook.png)
-
-This application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
+This opensource android application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
 
 1. It uses multi-layer encryption to make sure data is protected.
 2. Functionality to import and export the app data.
