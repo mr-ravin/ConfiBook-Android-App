@@ -6,6 +6,7 @@ This opensource android application stores all of its data in a 256 bit encrypte
 |-----------------|------|
 | Android OS Version| 13 |
 | Android Target SDK| 33 |
+| API Levels        | 21+ |
 
 ![image](https://github.com/mr-ravin/ConfiBook-Android-App/blob/main/ConfiBook.png)
 
