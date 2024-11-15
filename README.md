@@ -19,7 +19,15 @@ App Development Framework Used : `React Native`
 5. Simplicity is at the core of this application, whether its the functionality or the user interface.
 6. Note- If the user forgets the password, or delete the app then the app stored data is not recoverable.
 7. Permissions Required- This app require permission to store files in the android device, that's it !
+---
 
+#### Working Demonstration:
+
+[![Working Demonstration](https://github.com/mr-ravin/ConfiBook-Android-App/blob/main/ConfiBook.gif)](https://www.youtube.com/watch?v=-yghUJFwio8)
+
+Demo video on Youtube: [click here](https://www.youtube.com/watch?v=-yghUJFwio8)
+
+#### Installation:
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="30%" height="30%" target="_blank">](https://play.google.com/store/apps/details?id=ravin.developer.confidentialbook)
 
 ```
