@@ -2,6 +2,12 @@
 
 This opensource android application stores all of its data in a 256 bit encrypted format on the device itself, thus it works completely offline.
 
+##### Application Developer: [Ravin Kumar](https://mr-ravin.github.io)
+##### Github repository: https://github.com/mr-ravin/ConfiBook-Android-App
+
+-----
+#### Development Details:
+
 App Development Framework Used : `React Native`
 
 |Target OS Details|Number|
